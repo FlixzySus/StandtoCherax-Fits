@@ -1,6 +1,5 @@
 # Stand to Cherax Outfit Converter
 
-[![License](https://img.shields.io/badge/license-MIT-blue)](#)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)](#)
 [![Cherax Compatible](https://img.shields.io/badge/cherax-supported-purple)](#)
 
