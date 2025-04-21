@@ -12,6 +12,7 @@ A custom GTA V tool that converts **Stand mod menu `.txt` outfit files** into **
 # Important!
 
 `When loading outfit saves with glasses in Cherax(glasses will stick to character after loading a different save).`
+
 `A bug in cherax(manually reset glasses appearence) in Cherax>Player>Cosmetic>Props(select glasses and apply values to -1) `
 
 ---
