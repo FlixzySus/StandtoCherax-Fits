@@ -1,0 +1,395 @@
+Prop,Drawable,Total Textures
+Right Wrist,0,1
+Right Wrist,1,1
+Right Wrist,2,1
+Right Wrist,3,1
+Right Wrist,4,1
+Right Wrist,5,1
+Right Wrist,6,1
+Right Wrist,7,1
+Right Wrist,8,1
+Right Wrist,9,1
+Right Wrist,10,1
+Right Wrist,11,1
+Right Wrist,12,1
+Right Wrist,13,1
+Right Wrist,14,4
+Right Wrist,15,12
+Right Wrist,16,3
+Right Wrist,17,1
+Right Wrist,18,5
+Right Wrist,19,5
+Right Wrist,20,14
+Right Wrist,21,6
+Right Wrist,22,5
+Right Wrist,23,5
+Head,0,8
+Head,1,1
+Head,2,8
+Head,3,8
+Head,4,8
+Head,5,8
+Head,6,8
+Head,7,8
+Head,8,8
+Head,9,8
+Head,10,8
+Head,11,8
+Head,12,8
+Head,13,8
+Head,14,8
+Head,15,8
+Head,16,8
+Head,17,8
+Head,18,8
+Head,19,1
+Head,20,7
+Head,21,7
+Head,22,7
+Head,23,2
+Head,24,1
+Head,25,1
+Head,26,14
+Head,27,14
+Head,28,8
+Head,29,5
+Head,30,1
+Head,31,1
+Head,32,2
+Head,33,1
+Head,34,1
+Head,35,1
+Head,36,6
+Head,37,1
+Head,38,5
+Head,39,8
+Head,40,1
+Head,41,4
+Head,42,4
+Head,43,8
+Head,44,8
+Head,45,1
+Head,46,1
+Head,47,1
+Head,48,1
+Head,49,1
+Head,50,1
+Head,51,1
+Head,52,1
+Head,53,2
+Head,54,8
+Head,55,26
+Head,56,10
+Head,57,1
+Head,58,3
+Head,59,10
+Head,60,10
+Head,61,10
+Head,62,10
+Head,63,10
+Head,64,1
+Head,65,1
+Head,66,24
+Head,67,1
+Head,68,1
+Head,69,1
+Head,70,1
+Head,71,10
+Head,72,13
+Head,73,13
+Head,74,16
+Head,75,21
+Head,76,21
+Head,77,5
+Head,78,5
+Head,79,4
+Head,80,4
+Head,81,24
+Head,82,7
+Head,83,10
+Head,84,1
+Head,85,1
+Head,86,1
+Head,87,1
+Head,88,10
+Head,89,1
+Head,90,11
+Head,91,11
+Head,92,4
+Head,93,10
+Head,94,10
+Head,95,16
+Head,96,4
+Head,97,1
+Head,98,1
+Head,99,1
+Head,100,1
+Head,101,10
+Head,102,20
+Head,103,26
+Head,104,26
+Head,105,26
+Head,106,26
+Head,107,26
+Head,108,11
+Head,109,11
+Head,110,26
+Head,111,26
+Head,112,20
+Head,113,23
+Head,114,26
+Head,115,26
+Head,116,26
+Head,117,26
+Head,118,26
+Head,119,26
+Head,120,1
+Head,121,2
+Head,122,20
+Head,123,20
+Head,124,23
+Head,125,23
+Head,126,2
+Head,127,2
+Head,128,18
+Head,129,19
+Head,130,19
+Head,131,4
+Head,132,12
+Head,133,1
+Head,134,24
+Head,135,24
+Head,136,3
+Head,137,3
+Head,138,3
+Head,139,3
+Head,140,1
+Head,141,26
+Head,142,26
+Head,143,1
+Head,144,4
+Head,145,14
+Head,146,8
+Head,147,8
+Head,148,1
+Head,149,26
+Head,150,8
+Head,151,8
+Head,152,1
+Head,153,14
+Head,154,14
+Head,155,26
+Head,156,26
+Head,157,26
+Head,158,2
+Head,159,26
+Head,160,2
+Head,161,9
+Head,162,9
+Head,163,1
+Head,164,1
+Head,165,2
+Head,166,1
+Head,167,2
+Head,168,26
+Head,169,14
+Head,170,1
+Head,171,1
+Head,172,1
+Head,173,1
+Head,174,1
+Head,175,1
+Head,176,1
+Head,177,9
+Head,178,1
+Head,179,1
+Head,180,26
+Head,181,26
+Head,182,26
+Head,183,1
+Head,184,1
+Head,185,2
+Head,186,1
+Head,187,1
+Head,188,26
+Head,189,3
+Head,190,26
+Head,191,3
+Head,192,1
+Head,193,2
+Head,194,1
+Head,195,1
+Head,196,1
+Head,197,16
+Head,198,16
+Head,199,4
+Head,200,4
+Head,201,1
+Head,202,1
+Head,203,1
+Head,204,1
+Head,205,4
+Head,206,16
+Head,207,16
+Head,208,2
+Head,209,2
+Head,210,2
+Head,211,2
+Head,212,4
+Head,213,15
+Head,214,2
+Head,215,2
+Head,216,3
+Head,217,5
+Head,218,5
+Head,219,1
+Head,220,1
+Head,221,1
+Head,222,1
+Head,223,4
+Head,224,1
+Head,225,1
+Head,226,1
+Head,227,21
+Head,228,2
+Head,229,1
+Head,230,1
+Head,231,1
+Head,232,1
+Head,233,1
+Head,234,3
+Head,235,3
+Head,236,1
+Head,237,1
+Head,238,1
+Head,239,1
+Head,240,1
+Head,241,2
+Head,242,11
+Head,243,10
+Head,244,10
+Ears,0,1
+Ears,1,1
+Ears,2,1
+Ears,3,1
+Ears,4,1
+Ears,5,1
+Ears,6,3
+Ears,7,3
+Ears,8,3
+Ears,9,3
+Ears,10,3
+Ears,11,3
+Ears,12,3
+Ears,13,1
+Ears,14,1
+Ears,15,1
+Ears,16,1
+Ears,17,1
+Ears,18,2
+Ears,19,4
+Ears,20,4
+Ears,21,4
+Ears,22,12
+Ears,23,1
+Eyes,0,11
+Eyes,1,11
+Eyes,2,11
+Eyes,3,11
+Eyes,4,11
+Eyes,5,11
+Eyes,6,11
+Eyes,7,11
+Eyes,8,11
+Eyes,9,11
+Eyes,10,11
+Eyes,11,8
+Eyes,12,8
+Eyes,13,8
+Eyes,14,11
+Eyes,15,8
+Eyes,16,10
+Eyes,17,10
+Eyes,18,11
+Eyes,19,11
+Eyes,20,8
+Eyes,21,8
+Eyes,22,1
+Eyes,23,1
+Eyes,24,11
+Eyes,25,10
+Eyes,26,6
+Eyes,27,8
+Eyes,28,26
+Eyes,29,1
+Eyes,30,12
+Eyes,31,20
+Eyes,32,12
+Eyes,33,12
+Eyes,34,12
+Eyes,35,12
+Eyes,36,12
+Eyes,37,12
+Eyes,38,12
+Eyes,39,12
+Eyes,40,12
+Eyes,41,12
+Eyes,42,20
+Eyes,43,20
+Eyes,44,16
+Eyes,45,1
+Eyes,46,3
+Eyes,47,26
+Eyes,48,4
+Eyes,49,26
+Eyes,50,15
+Eyes,51,1
+Eyes,52,1
+Eyes,53,9
+Eyes,54,1
+Eyes,55,8
+Eyes,56,2
+Eyes,57,4
+Eyes,58,9
+Eyes,59,8
+Eyes,60,4
+Hip,-1,1
+Left Wrist,0,5
+Left Wrist,1,5
+Left Wrist,2,4
+Left Wrist,3,3
+Left Wrist,4,3
+Left Wrist,5,3
+Left Wrist,6,3
+Left Wrist,7,3
+Left Wrist,8,3
+Left Wrist,9,3
+Left Wrist,10,3
+Left Wrist,11,1
+Left Wrist,12,1
+Left Wrist,13,1
+Left Wrist,14,1
+Left Wrist,15,1
+Left Wrist,16,1
+Left Wrist,17,1
+Left Wrist,18,4
+Left Wrist,19,6
+Left Wrist,20,6
+Left Wrist,21,10
+Left Wrist,22,6
+Left Wrist,23,6
+Left Wrist,24,6
+Left Wrist,25,6
+Left Wrist,26,6
+Left Wrist,27,3
+Left Wrist,28,3
+Left Wrist,29,12
+Left Wrist,30,3
+Left Wrist,31,3
+Left Wrist,32,3
+Left Wrist,33,3
+Left Wrist,34,1
+Left Wrist,35,5
+Left Wrist,36,5
+Left Wrist,37,5
+Left Wrist,38,5
