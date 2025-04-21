@@ -41,7 +41,7 @@ Place these **in the same folder** as the EXE:
 ### 🚀 Step 3: Run the App
 
 1. Double-click `StandtoCheraxFits.exe`
-2. Click **“Load Stand Outfit 📂”** and select the folder containing `.txt` outfits
+2. Click **“Load Stand Outfit 📂”** and select the root folder containing `.txt` outfits in sub-folders
 3. Click **“🚀 Convert to Cherax JSON”**
 4. Converted `.json` files will appear inside:
 
